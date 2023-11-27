@@ -1,6 +1,6 @@
-<h1 align="center">Calculo da Média</h1>
+<h1 align="left">Calculo da Média</h1>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
 
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/>
 <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="top-language"/>  
@@ -10,14 +10,14 @@
 <p>Esse é um programa que calcula a média no semestre através da inserção de 4 notas. Seu objetivo é estudar como funciona as estruturas de decisão IF, ELSE e ELIF.</p><br>
 
 
-<h1 align="center">Pré-requisito</h1>
+<h1 align="left">Pré-requisito</h1>
 
 -  Não há.
 
 <br>
 
 
-<h1 align="center"> Explicando o Código</h1>
+<h1 align="left"> Explicando o Código</h1>
 
 -  A função input é usada para entrada de dados <br>
 
@@ -34,7 +34,7 @@
 <br>
 
 
-<h1 align="center">Editor Usado</h1>
+<h1 align="left">Editor Usado</h1>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 

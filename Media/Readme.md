@@ -33,7 +33,7 @@
 <br>
 
 
-<h1 align="left">Editor Usado</h1>
+<h1 align="left">Ferramenta de Edição</h1>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 

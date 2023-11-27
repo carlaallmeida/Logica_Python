@@ -1,26 +1,25 @@
-<h1 align="center">Agenda Telefônica</h1>
+<h1 align="left">Agenda Telefônica</h1>
 
-<p align="center" display="inline-block">
+<p align="left" display="inline-block">
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="top-language"/>  
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/>
 
   </p>
 
 <p>Esse é um programa de agenda telefônica onde você pode inserir, visualizar e excluir os dados. O objetivo é estudar as estruturas de repetição, estruturas de decisão, listas e funcões.</p><br>
 
-<h1 align="center">Pré-Requisito</h1>
+<h1 align="left">Pré-Requisito</h1>
 
 - Não há.
 
 <br>
 
-<h1 align="center"> Criação da Lista</h1>
+<h1 align="left"> Criação da Lista</h1>
 
 -  Primeiro criamos uma lista vazia com o nome aqui determinado *lista_contatos = [ ]*, mas você pode escolher o nome que você deseja para o seu projeto. <br><br>
 
 
-<h1 align="center"> Criação das Funções</h1>
+<h1 align="left"> Criação das Funções</h1>
 
 - **def novo_contato** 
 
@@ -43,20 +42,20 @@ Se não, através da condição ELSE, ele vai imprimir  uma mensagem pedindo par
 
 <p> Usado o comando exit para sair do programa.</p><br>
 
-<h1 align="center"> Criação do Menu</h1>
+<h1 align="left"> Criação do Menu</h1>
 
 <p> Para criação do Menu foi usado o While para criação de um  loop, que permite que  enquanto  for verdadeiro o programa irá executar as ações referentes a opção escolhida. </p>
 
 <br>
 
-<h1 align="center">Editor Usado</h1>
+<h1 align="left">Ferramenta de Edição</h1>
 
 - Todo o código foi desenvolvido no Visual Studio Code.
 
 <br>
 
 
-<h1 align="center">Licença</h1>
+<h1 align="left">Licença</h1>
 
 - MIT License.
 

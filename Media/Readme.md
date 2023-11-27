@@ -2,8 +2,7 @@
 
 <p align="left" display="inline-block">
 
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/>
-<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="top-language"/>  
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=green" alt="top-language"/> 
 
   </p>
 
@@ -39,7 +38,7 @@
 - Todo o código foi desenvolvido no Visual Studio Code.
 
 
-<h1 align="center">Licença</h1>
+<h1 align="left">Licença</h1>
 
 - MIT License.
 
